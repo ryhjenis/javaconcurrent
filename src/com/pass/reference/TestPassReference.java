@@ -12,7 +12,6 @@ public class TestPassReference {
 		people.handleAnimalName();
 
 		System.out.println(bigMan.getName());
-		System.out.println(bigMan.getName());
 
 	}
 }
