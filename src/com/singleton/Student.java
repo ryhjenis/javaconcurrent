@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.thread.singleton;
+package com.singleton;
 
 import java.io.Serializable;
 

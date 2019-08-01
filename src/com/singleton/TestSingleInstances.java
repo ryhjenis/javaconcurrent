@@ -1,4 +1,4 @@
-package com.thread.singleton;
+package com.singleton;
 
 public class TestSingleInstances {
 
